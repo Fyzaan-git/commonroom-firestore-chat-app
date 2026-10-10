@@ -1,0 +1,6 @@
+{
+  "name": "CommonRoom",
+  "description": "Full-stack team collaboration platform with direct messaging, group channels, workspace management, and rich communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
